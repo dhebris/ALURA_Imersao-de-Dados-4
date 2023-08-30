@@ -2,8 +2,6 @@
 
 Status do aprendizado: em desenvolvimento
 
-
-
 Biblioteca    -Pandas (https://pandas.pydata.org/)
 
 Linguagem     -Python
@@ -13,4 +11,9 @@ Plataforma    -Google Colab
 Base de Dados -https://gist.githubusercontent.com/tgcsantos/3bdb29eba6ce391e90df2b72205ba891/raw/22fa920e80c9fa209a9fccc8b52d74cc95d1599b/dados_imoveis.csv
 
 #AULA 2
+
+Status do aprendizado: em desenvolvimento
+
+Tratamento de dados - visualização com seaborn (https://seaborn.pydata.org/)
+
 
